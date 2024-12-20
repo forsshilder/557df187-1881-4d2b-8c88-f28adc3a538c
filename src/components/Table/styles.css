@@ -1,0 +1,12 @@
+.edit-button{
+    margin-Right: 8px;
+}
+.search-section{
+    display: flex;
+    justify-Content: space-between;
+    margin-Bottom: 16px;
+    max-Width: 400px;
+}
+.button-section{
+    margin: 16px;
+}
